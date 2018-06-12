@@ -1,0 +1,5 @@
+model_checkpoint_path: "/media/xing/\346\226\260\345\212\240\345\215\2671/finetune221_form_dish469_with_mobilenetv2_log/model.ckpt-1000"
+all_model_checkpoint_paths: "/media/xing/\346\226\260\345\212\240\345\215\2671/finetune221_form_dish469_with_mobilenetv2_log/model.ckpt-0"
+all_model_checkpoint_paths: "/media/xing/\346\226\260\345\212\240\345\215\2671/finetune221_form_dish469_with_mobilenetv2_log/model.ckpt-430"
+all_model_checkpoint_paths: "/media/xing/\346\226\260\345\212\240\345\215\2671/finetune221_form_dish469_with_mobilenetv2_log/model.ckpt-876"
+all_model_checkpoint_paths: "/media/xing/\346\226\260\345\212\240\345\215\2671/finetune221_form_dish469_with_mobilenetv2_log/model.ckpt-1000"
